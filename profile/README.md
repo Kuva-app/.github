@@ -1,12 +1,16 @@
-## Hi there 👋
+# Kuva
 
-<!--
+**Escolha fotos no celular, envie para a loja e retire quando estiver pronto.**
 
-**Here are some ideas to get you started:**
+O **Kuva** é uma plataforma digital para impressão de fotos que conecta consumidores a lojas físicas de revelação, impressão, papelarias, gráficas rápidas e laboratórios fotográficos.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Nosso objetivo é substituir fluxos manuais, lentos e desorganizados — como totens, pen-drives, WhatsApp e atendimento dependente do balcão — por uma experiência simples, rastreável e organizada.
+
+---
+
+## Visão
+
+Transformar a impressão de fotos em uma jornada digital simples:
+
+```text
+Selecionar fotos → Criar pedido → Enviar para loja → Produzir → Retirar
